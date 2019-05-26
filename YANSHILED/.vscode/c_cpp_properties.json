@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\\\Users\\\\Jeff\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\atmel-avr-xminis\\\\hardware\\\\avr\\\\0.6.0\\\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11"
+        }
+    ],
+    "version": 4
+}

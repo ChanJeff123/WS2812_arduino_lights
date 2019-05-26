@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "atmel-avr-xminis:avr:atmega328p_xplained_mini",
+    "port": "COM4",
+    "sketch": "YANSHILED.ino"
+}
